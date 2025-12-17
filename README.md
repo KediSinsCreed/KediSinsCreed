@@ -1,8 +1,3 @@
-<div align="center">
-  <div align="center">
-  <img src="https://tenor.com/tr/view/cat-moon-addadd-gif-123114254524088182"/>
-</div>
-
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+everyone!+%F0%9F%91%8B;I'm+Emir+Abdullah+%C3%96nal;aka+Kedi+Sins+Creed!;r" alt="Typing SVG" />
 </div>
