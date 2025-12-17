@@ -46,7 +46,9 @@
 ---
 
 ### 🌱 I'm currently interested in & Learning
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmirApo&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
