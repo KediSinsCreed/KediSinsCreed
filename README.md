@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🛠 Languages & Technologies
+### 🛠 Used(and known) Languages & Technologies
 
 ![Assembly](https://img.shields.io/badge/Assembly-%23545454.svg?style=for-the-badge&logo=assembler&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
