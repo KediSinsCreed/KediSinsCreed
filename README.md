@@ -1,6 +1,12 @@
-# Hi everyone! 👋
+<div align="center">
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZpYnhpbHV4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4YmZpb2l4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrRJ41JB2zlgp88DBX/giphy.gif" width="100%"/>
+</div>
 
-I'm **Emir Abdullah Önal**, also known as **Kedi Sins Creed** (my long-time nickname).
+# Hi everyone! 👋
+... (geri kalanı aynı)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+everyone!+%F0%9F%91%8B;I'm+Emir+Abdullah+%C3%96nal;aka+Kedi+Sins+Creed!;r" alt="Typing SVG" />
+</div>
 
 - 🎓 **3rd Year Computer Engineering Student** at **Sakarya University**.
 - 💻 I have a special interest in **C++** and **C#**.
