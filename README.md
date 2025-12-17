@@ -1,5 +1,5 @@
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+everyone!+%F0%9F%91%8B;I'm+Emir+Abdullah+%C3%96nal;aka+Kedi+Sins+Creed!;r" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+everyone!+%F0%9F%91%8B;I'm+Emir+Abdullah+%C3%96nal;aka+Kedi+Sins+Creed!" alt="Typing SVG" />
 </div>
 
 - 🎓 **3rd Year Computer Engineering Student** at **Sakarya University**.
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🛠 Used(and known) Languages & Technologies
+### 🛠 Used (and known) Languages & Technologies
 
 ![Assembly](https://img.shields.io/badge/Assembly-%23545454.svg?style=for-the-badge&logo=assembler&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,43 +34,22 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
-
-
 <br/>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<br/>
-
-<br/>
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
 
 ---
 
 ### 🌱 I'm currently interested in & Learning
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 </div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KediSinsCreed&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KediSinsCreed&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
----
-
-📫 **How to reach me:** [emir.onal@ogr.sakarya.edu.tr](mailto:emir.onal@ogr.sakarya.edu.tr)
-
-✨ *Have a nice day!*
