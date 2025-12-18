@@ -46,9 +46,7 @@
 ---
 
 ### 🌱 I'm currently interested in & Learning
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmirApo&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,5 +55,28 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirApo&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirApo&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+---
+
+<div align="center">
+
+📫 **How to reach me:** [emir.onal@ogr.sakarya.edu.tr](mailto:emir.onal@ogr.sakarya.edu.tr)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=EmirApo&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+✨ *Have a nice day!*
 
 </div>
