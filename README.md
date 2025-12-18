@@ -56,6 +56,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white)
 
+And also im workin on modding "Rimworld", no repo's for it yet.
 </div>
 
 ---
