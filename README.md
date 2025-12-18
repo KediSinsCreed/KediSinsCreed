@@ -75,7 +75,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=EmirApo&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KediSinsCreed&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 ✨ *Have a nice day!*
 
